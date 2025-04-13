@@ -2,6 +2,6 @@ Estoy desarrollando una aplicación Android utilizando Jetpack Compose, siguiend
 La gestión de dependencias se realiza con Dagger Hilt, lo que permite cumplir con el principio de inversión de dependencias (Dependency Inversion Principle) del paradigma SOLID, favoreciendo un código desacoplado, testable y mantenible.
 Actualmente, el proyecto se encuentra en desarrollo activo, con nuevas funcionalidades y mejoras en curso.
 
-<a href="https://www.youtube.com/shorts/2ybmXu-AuYo" target="_blank">
+<a href="https://www.youtube.com/shorts/4rxsmzRhFgo" target="_blank">
     <img src="https://github.com/JuanSebastian07/Orden-Now/blob/main/OrderNow.jpg" alt="Descripción del Video" width="280" height="510" />
 </a>
